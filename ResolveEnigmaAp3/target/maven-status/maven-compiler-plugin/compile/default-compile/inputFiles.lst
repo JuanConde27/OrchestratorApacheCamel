@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\GetEnigmaRequest.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\JsonApiBodyRequest.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\JsonApiBodyResponseErrors.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\config\SwaggerDocumentationConfig.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\GetEnigmaStepResponse.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\GetStepApi.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\GetStepApiController.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\ErrorDetail.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\ApiException.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\JsonApiBodyResponseSuccess.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\ApiOriginFilter.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\Swagger2SpringBoot.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\model\Header.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\ApiResponseMessage.java
+C:\Users\maria\OneDrive\Documentos\Dillan\Servicios\universidad\ResolveEnigmaAp\src\main\java\co\com\dillan\microservice\resolveEnigmaApi\api\NotFoundException.java
